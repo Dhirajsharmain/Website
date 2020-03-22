@@ -1,0 +1,23 @@
+.top_bar{background: #f8ac1a; padding:5px 0; }
+
+.social_icon{margin-right:5px; }
+
+.contact_info{color:#fff; font-size:16px;}
+
+.my_menu{margin-top:27px;     }
+
+.my_menu .navbar-default{background:none; border:none;}
+
+.my_menu .navbar-default .active a, .my_menu .navbar-default .active a:hover{background:#f8ac1a; color:#fff;}
+
+.my_menu .navbar-nav li  a:hover{background:#f8ac1a; color:#fff;}
+
+.side{margin-top:40px;}
+
+.our_courses{background: radial-gradient(circle, #5d6532,#878d67 );}
+
+
+@media (max-width:1200px){
+	.my_menu  .pull-right{float:none !important;}
+	
+}
